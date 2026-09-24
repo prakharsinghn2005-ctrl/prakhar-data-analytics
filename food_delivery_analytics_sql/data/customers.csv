@@ -1,0 +1,301 @@
+customer_id,customer_name,city,area,signup_date,gender
+1,Customer 1,Delhi,Rohini,2025-12-09,Male
+2,Customer 2,Mumbai,Bandra,2025-12-04,Other
+3,Customer 3,Delhi,Lajpat Nagar,2025-01-01,Male
+4,Customer 4,Mumbai,Bandra,2025-09-20,Male
+5,Customer 5,Mumbai,Dadar,2025-04-15,Other
+6,Customer 6,Pune,Baner,2025-03-23,Female
+7,Customer 7,Hyderabad,Gachibowli,2025-03-07,Female
+8,Customer 8,Delhi,Rohini,2025-07-04,Female
+9,Customer 9,Hyderabad,Gachibowli,2025-01-24,Female
+10,Customer 10,Delhi,Lajpat Nagar,2025-02-18,Female
+11,Customer 11,Hyderabad,Banjara Hills,2025-12-03,Male
+12,Customer 12,Mumbai,Powai,2025-02-28,Male
+13,Customer 13,Delhi,Lajpat Nagar,2025-05-15,Other
+14,Customer 14,Hyderabad,Banjara Hills,2025-06-12,Male
+15,Customer 15,Pune,Baner,2025-10-21,Male
+16,Customer 16,Mumbai,Bandra,2025-08-13,Female
+17,Customer 17,Mumbai,Powai,2025-01-08,Male
+18,Customer 18,Hyderabad,Kukatpally,2025-05-03,Male
+19,Customer 19,Hyderabad,Banjara Hills,2025-11-16,Female
+20,Customer 20,Chandigarh,Sector 22,2025-05-05,Male
+21,Customer 21,Pune,Hinjewadi,2025-10-13,Female
+22,Customer 22,Mumbai,Bandra,2025-09-16,Male
+23,Customer 23,Lucknow,Gomti Nagar,2025-03-21,Male
+24,Customer 24,Jaipur,Malviya Nagar,2025-07-13,Other
+25,Customer 25,Chandigarh,Manimajra,2025-09-28,Male
+26,Customer 26,Delhi,Saket,2025-11-11,Male
+27,Customer 27,Pune,Hinjewadi,2025-03-15,Male
+28,Customer 28,Pune,Viman Nagar,2025-09-04,Other
+29,Customer 29,Pune,Viman Nagar,2025-03-12,Male
+30,Customer 30,Lucknow,Aliganj,2025-08-01,Male
+31,Customer 31,Hyderabad,Gachibowli,2025-04-02,Male
+32,Customer 32,Delhi,Rohini,2025-12-16,Male
+33,Customer 33,Bengaluru,Indiranagar,2025-11-16,Other
+34,Customer 34,Bengaluru,Koramangala,2025-09-28,Other
+35,Customer 35,Jaipur,Vaishali Nagar,2025-09-25,Other
+36,Customer 36,Mumbai,Powai,2025-07-22,Other
+37,Customer 37,Hyderabad,Kukatpally,2025-09-15,Male
+38,Customer 38,Mumbai,Bandra,2025-02-11,Male
+39,Customer 39,Mumbai,Bandra,2025-01-03,Other
+40,Customer 40,Lucknow,Hazratganj,2025-02-02,Female
+41,Customer 41,Delhi,Dwarka,2025-05-22,Female
+42,Customer 42,Mumbai,Bandra,2025-12-19,Other
+43,Customer 43,Chandigarh,Sector 22,2025-08-26,Female
+44,Customer 44,Mumbai,Andheri,2025-02-22,Female
+45,Customer 45,Hyderabad,Kukatpally,2025-07-15,Other
+46,Customer 46,Lucknow,Gomti Nagar,2025-01-13,Other
+47,Customer 47,Hyderabad,Madhapur,2025-04-07,Male
+48,Customer 48,Chandigarh,Sector 22,2025-07-06,Female
+49,Customer 49,Chandigarh,Sector 22,2025-02-15,Other
+50,Customer 50,Delhi,Rohini,2025-11-18,Male
+51,Customer 51,Delhi,Dwarka,2025-03-14,Female
+52,Customer 52,Chandigarh,Sector 22,2025-07-02,Male
+53,Customer 53,Jaipur,Malviya Nagar,2025-07-09,Female
+54,Customer 54,Pune,Hinjewadi,2025-12-24,Other
+55,Customer 55,Chandigarh,Sector 22,2025-04-10,Male
+56,Customer 56,Lucknow,Gomti Nagar,2025-12-11,Male
+57,Customer 57,Lucknow,Indira Nagar,2025-09-28,Other
+58,Customer 58,Bengaluru,Whitefield,2025-09-03,Male
+59,Customer 59,Delhi,Rohini,2025-11-28,Male
+60,Customer 60,Jaipur,Malviya Nagar,2025-10-08,Other
+61,Customer 61,Lucknow,Gomti Nagar,2025-07-22,Other
+62,Customer 62,Hyderabad,Gachibowli,2025-04-22,Other
+63,Customer 63,Hyderabad,Banjara Hills,2025-05-13,Male
+64,Customer 64,Pune,Hinjewadi,2025-06-25,Male
+65,Customer 65,Lucknow,Indira Nagar,2025-10-19,Male
+66,Customer 66,Delhi,Dwarka,2025-09-09,Male
+67,Customer 67,Hyderabad,Madhapur,2025-04-12,Female
+68,Customer 68,Bengaluru,HSR Layout,2025-09-23,Female
+69,Customer 69,Lucknow,Aliganj,2025-11-04,Male
+70,Customer 70,Pune,Baner,2025-02-24,Other
+71,Customer 71,Bengaluru,Koramangala,2025-05-20,Male
+72,Customer 72,Hyderabad,Banjara Hills,2025-11-21,Female
+73,Customer 73,Chandigarh,Manimajra,2025-01-03,Other
+74,Customer 74,Jaipur,C-Scheme,2025-01-01,Female
+75,Customer 75,Bengaluru,Koramangala,2025-03-24,Female
+76,Customer 76,Jaipur,Malviya Nagar,2025-02-03,Other
+77,Customer 77,Bengaluru,Whitefield,2025-06-19,Other
+78,Customer 78,Bengaluru,HSR Layout,2025-03-02,Female
+79,Customer 79,Hyderabad,Madhapur,2025-06-07,Other
+80,Customer 80,Mumbai,Andheri,2025-06-25,Other
+81,Customer 81,Jaipur,Vaishali Nagar,2025-04-28,Male
+82,Customer 82,Bengaluru,HSR Layout,2025-01-06,Other
+83,Customer 83,Hyderabad,Kukatpally,2025-11-28,Other
+84,Customer 84,Mumbai,Powai,2025-03-26,Other
+85,Customer 85,Delhi,Lajpat Nagar,2025-01-28,Female
+86,Customer 86,Mumbai,Bandra,2025-08-12,Female
+87,Customer 87,Mumbai,Bandra,2025-01-22,Male
+88,Customer 88,Jaipur,C-Scheme,2025-05-28,Male
+89,Customer 89,Pune,Kothrud,2025-11-17,Female
+90,Customer 90,Hyderabad,Madhapur,2025-02-09,Male
+91,Customer 91,Pune,Baner,2025-02-20,Female
+92,Customer 92,Hyderabad,Gachibowli,2025-07-20,Other
+93,Customer 93,Delhi,Lajpat Nagar,2025-10-07,Female
+94,Customer 94,Lucknow,Indira Nagar,2025-01-17,Other
+95,Customer 95,Mumbai,Powai,2025-07-03,Other
+96,Customer 96,Hyderabad,Gachibowli,2025-11-28,Male
+97,Customer 97,Pune,Kothrud,2025-11-14,Female
+98,Customer 98,Jaipur,C-Scheme,2025-09-05,Male
+99,Customer 99,Jaipur,Mansarovar,2025-11-24,Male
+100,Customer 100,Pune,Hinjewadi,2025-09-27,Male
+101,Customer 101,Pune,Kothrud,2025-04-14,Other
+102,Customer 102,Hyderabad,Kukatpally,2025-08-15,Other
+103,Customer 103,Mumbai,Dadar,2025-12-06,Other
+104,Customer 104,Delhi,Saket,2025-09-22,Other
+105,Customer 105,Hyderabad,Madhapur,2025-04-22,Female
+106,Customer 106,Mumbai,Bandra,2025-03-01,Male
+107,Customer 107,Mumbai,Dadar,2025-10-28,Male
+108,Customer 108,Chandigarh,Zirakpur,2025-11-19,Male
+109,Customer 109,Jaipur,Mansarovar,2025-07-08,Male
+110,Customer 110,Lucknow,Gomti Nagar,2025-07-08,Male
+111,Customer 111,Chandigarh,Sector 17,2025-09-08,Male
+112,Customer 112,Chandigarh,Sector 22,2025-08-22,Other
+113,Customer 113,Hyderabad,Kukatpally,2025-10-27,Other
+114,Customer 114,Jaipur,Mansarovar,2025-03-24,Female
+115,Customer 115,Chandigarh,Manimajra,2025-04-27,Other
+116,Customer 116,Pune,Hinjewadi,2025-11-08,Female
+117,Customer 117,Chandigarh,Sector 17,2025-12-10,Male
+118,Customer 118,Pune,Kothrud,2025-06-18,Male
+119,Customer 119,Bengaluru,Indiranagar,2025-04-13,Other
+120,Customer 120,Bengaluru,Indiranagar,2025-02-14,Female
+121,Customer 121,Hyderabad,Kukatpally,2025-07-02,Male
+122,Customer 122,Jaipur,Mansarovar,2025-10-23,Male
+123,Customer 123,Jaipur,Mansarovar,2025-01-12,Female
+124,Customer 124,Jaipur,Mansarovar,2025-09-24,Other
+125,Customer 125,Mumbai,Dadar,2025-04-09,Female
+126,Customer 126,Chandigarh,Sector 17,2025-07-11,Other
+127,Customer 127,Jaipur,Vaishali Nagar,2025-08-05,Other
+128,Customer 128,Lucknow,Indira Nagar,2025-10-19,Other
+129,Customer 129,Lucknow,Gomti Nagar,2025-11-14,Male
+130,Customer 130,Chandigarh,Sector 22,2025-01-09,Female
+131,Customer 131,Hyderabad,Banjara Hills,2025-08-11,Female
+132,Customer 132,Jaipur,C-Scheme,2025-07-09,Male
+133,Customer 133,Chandigarh,Sector 17,2025-12-18,Male
+134,Customer 134,Hyderabad,Banjara Hills,2025-11-03,Other
+135,Customer 135,Lucknow,Gomti Nagar,2025-04-07,Male
+136,Customer 136,Bengaluru,Indiranagar,2025-03-16,Other
+137,Customer 137,Delhi,Dwarka,2025-08-23,Female
+138,Customer 138,Hyderabad,Banjara Hills,2025-10-20,Other
+139,Customer 139,Delhi,Dwarka,2025-05-04,Other
+140,Customer 140,Lucknow,Aliganj,2025-10-22,Female
+141,Customer 141,Jaipur,Vaishali Nagar,2025-02-19,Other
+142,Customer 142,Mumbai,Andheri,2025-12-25,Female
+143,Customer 143,Delhi,Rohini,2025-06-18,Female
+144,Customer 144,Hyderabad,Madhapur,2025-09-21,Female
+145,Customer 145,Lucknow,Indira Nagar,2025-08-04,Female
+146,Customer 146,Hyderabad,Kukatpally,2025-12-05,Female
+147,Customer 147,Bengaluru,Koramangala,2025-10-26,Other
+148,Customer 148,Chandigarh,Zirakpur,2025-07-27,Other
+149,Customer 149,Pune,Kothrud,2025-04-27,Male
+150,Customer 150,Pune,Hinjewadi,2025-04-25,Female
+151,Customer 151,Jaipur,C-Scheme,2025-01-16,Female
+152,Customer 152,Bengaluru,HSR Layout,2025-04-12,Female
+153,Customer 153,Hyderabad,Gachibowli,2025-10-23,Female
+154,Customer 154,Lucknow,Hazratganj,2025-02-08,Other
+155,Customer 155,Jaipur,Mansarovar,2025-09-25,Male
+156,Customer 156,Chandigarh,Zirakpur,2025-08-26,Male
+157,Customer 157,Delhi,Saket,2025-04-13,Other
+158,Customer 158,Mumbai,Powai,2025-11-19,Female
+159,Customer 159,Chandigarh,Manimajra,2025-07-24,Other
+160,Customer 160,Hyderabad,Gachibowli,2025-12-15,Female
+161,Customer 161,Pune,Kothrud,2025-04-04,Other
+162,Customer 162,Mumbai,Powai,2025-02-24,Other
+163,Customer 163,Bengaluru,Indiranagar,2025-04-24,Female
+164,Customer 164,Pune,Kothrud,2025-02-27,Male
+165,Customer 165,Pune,Viman Nagar,2025-06-06,Female
+166,Customer 166,Lucknow,Hazratganj,2025-05-02,Male
+167,Customer 167,Pune,Viman Nagar,2025-11-28,Female
+168,Customer 168,Delhi,Rohini,2025-10-10,Female
+169,Customer 169,Chandigarh,Zirakpur,2025-06-06,Male
+170,Customer 170,Pune,Hinjewadi,2025-02-27,Male
+171,Customer 171,Jaipur,Mansarovar,2025-02-19,Other
+172,Customer 172,Lucknow,Hazratganj,2025-03-26,Other
+173,Customer 173,Pune,Baner,2025-04-04,Other
+174,Customer 174,Jaipur,Vaishali Nagar,2025-09-13,Female
+175,Customer 175,Chandigarh,Manimajra,2025-10-14,Female
+176,Customer 176,Lucknow,Gomti Nagar,2025-04-21,Male
+177,Customer 177,Pune,Baner,2025-03-08,Male
+178,Customer 178,Delhi,Dwarka,2025-01-14,Female
+179,Customer 179,Chandigarh,Manimajra,2025-01-08,Female
+180,Customer 180,Pune,Hinjewadi,2025-02-22,Male
+181,Customer 181,Pune,Viman Nagar,2025-07-04,Other
+182,Customer 182,Mumbai,Bandra,2025-05-27,Male
+183,Customer 183,Delhi,Rohini,2025-03-26,Female
+184,Customer 184,Pune,Hinjewadi,2025-02-15,Other
+185,Customer 185,Pune,Hinjewadi,2025-05-17,Other
+186,Customer 186,Chandigarh,Zirakpur,2025-02-20,Male
+187,Customer 187,Jaipur,C-Scheme,2025-10-09,Male
+188,Customer 188,Delhi,Dwarka,2025-11-27,Other
+189,Customer 189,Lucknow,Aliganj,2025-10-02,Male
+190,Customer 190,Chandigarh,Zirakpur,2025-05-06,Other
+191,Customer 191,Jaipur,Mansarovar,2025-02-16,Female
+192,Customer 192,Jaipur,C-Scheme,2025-06-22,Male
+193,Customer 193,Bengaluru,Koramangala,2025-07-23,Female
+194,Customer 194,Pune,Hinjewadi,2025-09-02,Female
+195,Customer 195,Delhi,Saket,2025-05-11,Male
+196,Customer 196,Jaipur,Malviya Nagar,2025-11-28,Other
+197,Customer 197,Chandigarh,Zirakpur,2025-01-07,Other
+198,Customer 198,Hyderabad,Kukatpally,2025-11-15,Male
+199,Customer 199,Mumbai,Powai,2025-09-05,Female
+200,Customer 200,Chandigarh,Zirakpur,2025-02-01,Other
+201,Customer 201,Mumbai,Bandra,2025-05-18,Male
+202,Customer 202,Jaipur,Malviya Nagar,2025-04-27,Male
+203,Customer 203,Chandigarh,Sector 17,2025-11-27,Male
+204,Customer 204,Chandigarh,Manimajra,2025-09-23,Female
+205,Customer 205,Jaipur,Mansarovar,2025-08-08,Female
+206,Customer 206,Bengaluru,HSR Layout,2025-04-20,Other
+207,Customer 207,Bengaluru,Whitefield,2025-05-25,Female
+208,Customer 208,Hyderabad,Gachibowli,2025-01-10,Other
+209,Customer 209,Pune,Hinjewadi,2025-03-15,Other
+210,Customer 210,Chandigarh,Manimajra,2025-06-18,Other
+211,Customer 211,Jaipur,Mansarovar,2025-06-28,Male
+212,Customer 212,Mumbai,Dadar,2025-04-28,Female
+213,Customer 213,Lucknow,Aliganj,2025-12-16,Other
+214,Customer 214,Jaipur,Mansarovar,2025-11-26,Other
+215,Customer 215,Bengaluru,HSR Layout,2025-01-05,Other
+216,Customer 216,Hyderabad,Madhapur,2025-08-04,Other
+217,Customer 217,Chandigarh,Sector 17,2025-12-05,Female
+218,Customer 218,Bengaluru,Whitefield,2025-08-26,Female
+219,Customer 219,Hyderabad,Kukatpally,2025-11-03,Female
+220,Customer 220,Jaipur,C-Scheme,2025-11-23,Female
+221,Customer 221,Lucknow,Gomti Nagar,2025-04-21,Other
+222,Customer 222,Pune,Viman Nagar,2025-12-03,Female
+223,Customer 223,Delhi,Rohini,2025-08-06,Other
+224,Customer 224,Pune,Baner,2025-01-11,Male
+225,Customer 225,Pune,Kothrud,2025-06-14,Male
+226,Customer 226,Mumbai,Dadar,2025-10-22,Male
+227,Customer 227,Bengaluru,Indiranagar,2025-02-20,Female
+228,Customer 228,Mumbai,Dadar,2025-10-05,Male
+229,Customer 229,Chandigarh,Manimajra,2025-08-09,Other
+230,Customer 230,Lucknow,Indira Nagar,2025-05-22,Other
+231,Customer 231,Bengaluru,Whitefield,2025-08-12,Other
+232,Customer 232,Pune,Hinjewadi,2025-12-09,Female
+233,Customer 233,Pune,Viman Nagar,2025-07-28,Female
+234,Customer 234,Delhi,Dwarka,2025-07-19,Female
+235,Customer 235,Pune,Kothrud,2025-01-27,Other
+236,Customer 236,Jaipur,C-Scheme,2025-01-19,Other
+237,Customer 237,Lucknow,Indira Nagar,2025-05-25,Male
+238,Customer 238,Hyderabad,Banjara Hills,2025-11-07,Other
+239,Customer 239,Pune,Viman Nagar,2025-11-04,Other
+240,Customer 240,Lucknow,Aliganj,2025-08-02,Other
+241,Customer 241,Hyderabad,Banjara Hills,2025-02-10,Female
+242,Customer 242,Jaipur,Vaishali Nagar,2025-04-05,Other
+243,Customer 243,Hyderabad,Gachibowli,2025-03-09,Female
+244,Customer 244,Pune,Kothrud,2025-02-15,Male
+245,Customer 245,Bengaluru,Indiranagar,2025-11-24,Other
+246,Customer 246,Jaipur,C-Scheme,2025-02-26,Female
+247,Customer 247,Lucknow,Aliganj,2025-09-04,Female
+248,Customer 248,Hyderabad,Gachibowli,2025-10-13,Other
+249,Customer 249,Hyderabad,Madhapur,2025-11-08,Female
+250,Customer 250,Lucknow,Aliganj,2025-10-08,Other
+251,Customer 251,Delhi,Lajpat Nagar,2025-12-10,Other
+252,Customer 252,Jaipur,Malviya Nagar,2025-03-02,Male
+253,Customer 253,Pune,Hinjewadi,2025-02-04,Male
+254,Customer 254,Bengaluru,HSR Layout,2025-08-12,Other
+255,Customer 255,Jaipur,Vaishali Nagar,2025-07-21,Male
+256,Customer 256,Chandigarh,Zirakpur,2025-05-02,Other
+257,Customer 257,Hyderabad,Banjara Hills,2025-08-15,Male
+258,Customer 258,Hyderabad,Madhapur,2025-11-12,Other
+259,Customer 259,Hyderabad,Madhapur,2025-07-09,Male
+260,Customer 260,Delhi,Lajpat Nagar,2025-02-22,Male
+261,Customer 261,Lucknow,Gomti Nagar,2025-06-08,Male
+262,Customer 262,Mumbai,Andheri,2025-09-07,Other
+263,Customer 263,Mumbai,Bandra,2025-06-25,Male
+264,Customer 264,Lucknow,Aliganj,2025-03-05,Other
+265,Customer 265,Pune,Viman Nagar,2025-02-22,Male
+266,Customer 266,Bengaluru,Whitefield,2025-06-26,Male
+267,Customer 267,Hyderabad,Madhapur,2025-03-09,Male
+268,Customer 268,Bengaluru,HSR Layout,2025-09-04,Other
+269,Customer 269,Delhi,Lajpat Nagar,2025-08-25,Female
+270,Customer 270,Delhi,Lajpat Nagar,2025-09-08,Other
+271,Customer 271,Lucknow,Aliganj,2025-08-21,Male
+272,Customer 272,Lucknow,Indira Nagar,2025-07-14,Other
+273,Customer 273,Delhi,Lajpat Nagar,2025-12-15,Male
+274,Customer 274,Delhi,Saket,2025-10-05,Male
+275,Customer 275,Bengaluru,Koramangala,2025-10-21,Other
+276,Customer 276,Hyderabad,Kukatpally,2025-10-17,Female
+277,Customer 277,Chandigarh,Zirakpur,2025-02-26,Other
+278,Customer 278,Delhi,Dwarka,2025-07-15,Male
+279,Customer 279,Jaipur,C-Scheme,2025-08-13,Female
+280,Customer 280,Delhi,Saket,2025-07-11,Other
+281,Customer 281,Pune,Kothrud,2025-03-22,Female
+282,Customer 282,Delhi,Rohini,2025-02-03,Female
+283,Customer 283,Delhi,Saket,2025-03-18,Male
+284,Customer 284,Hyderabad,Madhapur,2025-07-12,Other
+285,Customer 285,Jaipur,Malviya Nagar,2025-05-20,Female
+286,Customer 286,Hyderabad,Madhapur,2025-10-17,Male
+287,Customer 287,Bengaluru,HSR Layout,2025-04-28,Male
+288,Customer 288,Hyderabad,Gachibowli,2025-02-25,Female
+289,Customer 289,Mumbai,Dadar,2025-09-25,Other
+290,Customer 290,Lucknow,Aliganj,2025-01-06,Female
+291,Customer 291,Pune,Kothrud,2025-06-01,Male
+292,Customer 292,Bengaluru,HSR Layout,2025-02-05,Other
+293,Customer 293,Lucknow,Gomti Nagar,2025-12-17,Male
+294,Customer 294,Jaipur,Mansarovar,2025-08-11,Male
+295,Customer 295,Hyderabad,Gachibowli,2025-12-11,Other
+296,Customer 296,Delhi,Rohini,2025-03-06,Other
+297,Customer 297,Lucknow,Gomti Nagar,2025-05-15,Other
+298,Customer 298,Jaipur,Mansarovar,2025-10-15,Female
+299,Customer 299,Pune,Viman Nagar,2025-09-04,Female
+300,Customer 300,Jaipur,Malviya Nagar,2025-05-22,Other

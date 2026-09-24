@@ -1,0 +1,61 @@
+restaurant_id,restaurant_name,city,area,cuisine,price_segment
+1,Restaurant 1,Chandigarh,Manimajra,North Indian,Budget
+2,Restaurant 2,Jaipur,Malviya Nagar,North Indian,Budget
+3,Restaurant 3,Pune,Viman Nagar,South Indian,Mid-range
+4,Restaurant 4,Pune,Kothrud,Chinese,Budget
+5,Restaurant 5,Chandigarh,Zirakpur,South Indian,Budget
+6,Restaurant 6,Jaipur,Vaishali Nagar,Burgers,Budget
+7,Restaurant 7,Jaipur,Malviya Nagar,Desserts,Budget
+8,Restaurant 8,Chandigarh,Sector 17,Burgers,Premium
+9,Restaurant 9,Jaipur,Mansarovar,Desserts,Mid-range
+10,Restaurant 10,Delhi,Lajpat Nagar,North Indian,Mid-range
+11,Restaurant 11,Bengaluru,HSR Layout,Burgers,Budget
+12,Restaurant 12,Jaipur,Malviya Nagar,Biryani,Mid-range
+13,Restaurant 13,Jaipur,Malviya Nagar,Desserts,Mid-range
+14,Restaurant 14,Hyderabad,Banjara Hills,Burgers,Budget
+15,Restaurant 15,Delhi,Rohini,Biryani,Mid-range
+16,Restaurant 16,Hyderabad,Banjara Hills,Biryani,Budget
+17,Restaurant 17,Bengaluru,Koramangala,Biryani,Budget
+18,Restaurant 18,Bengaluru,Whitefield,South Indian,Premium
+19,Restaurant 19,Chandigarh,Zirakpur,Healthy,Premium
+20,Restaurant 20,Hyderabad,Gachibowli,South Indian,Mid-range
+21,Restaurant 21,Delhi,Lajpat Nagar,Healthy,Premium
+22,Restaurant 22,Pune,Kothrud,North Indian,Mid-range
+23,Restaurant 23,Delhi,Saket,Healthy,Mid-range
+24,Restaurant 24,Lucknow,Gomti Nagar,Burgers,Mid-range
+25,Restaurant 25,Delhi,Rohini,Desserts,Mid-range
+26,Restaurant 26,Lucknow,Indira Nagar,Biryani,Mid-range
+27,Restaurant 27,Chandigarh,Sector 22,North Indian,Mid-range
+28,Restaurant 28,Delhi,Saket,Chinese,Premium
+29,Restaurant 29,Bengaluru,Whitefield,Biryani,Premium
+30,Restaurant 30,Chandigarh,Zirakpur,South Indian,Mid-range
+31,Restaurant 31,Hyderabad,Gachibowli,Desserts,Mid-range
+32,Restaurant 32,Hyderabad,Madhapur,Burgers,Budget
+33,Restaurant 33,Hyderabad,Madhapur,Desserts,Mid-range
+34,Restaurant 34,Pune,Viman Nagar,Burgers,Budget
+35,Restaurant 35,Bengaluru,Koramangala,Pizza,Premium
+36,Restaurant 36,Jaipur,Vaishali Nagar,Chinese,Mid-range
+37,Restaurant 37,Jaipur,C-Scheme,South Indian,Premium
+38,Restaurant 38,Delhi,Lajpat Nagar,Burgers,Budget
+39,Restaurant 39,Hyderabad,Gachibowli,South Indian,Budget
+40,Restaurant 40,Hyderabad,Kukatpally,Biryani,Budget
+41,Restaurant 41,Bengaluru,Indiranagar,Chinese,Mid-range
+42,Restaurant 42,Delhi,Rohini,Burgers,Premium
+43,Restaurant 43,Bengaluru,HSR Layout,South Indian,Budget
+44,Restaurant 44,Bengaluru,Indiranagar,Healthy,Budget
+45,Restaurant 45,Jaipur,C-Scheme,Biryani,Mid-range
+46,Restaurant 46,Pune,Hinjewadi,Biryani,Premium
+47,Restaurant 47,Mumbai,Powai,Healthy,Budget
+48,Restaurant 48,Hyderabad,Kukatpally,Healthy,Mid-range
+49,Restaurant 49,Jaipur,Mansarovar,South Indian,Budget
+50,Restaurant 50,Bengaluru,Koramangala,North Indian,Premium
+51,Restaurant 51,Chandigarh,Manimajra,Chinese,Premium
+52,Restaurant 52,Delhi,Saket,Chinese,Budget
+53,Restaurant 53,Pune,Hinjewadi,South Indian,Mid-range
+54,Restaurant 54,Delhi,Dwarka,Healthy,Mid-range
+55,Restaurant 55,Lucknow,Indira Nagar,North Indian,Mid-range
+56,Restaurant 56,Hyderabad,Banjara Hills,Desserts,Budget
+57,Restaurant 57,Hyderabad,Banjara Hills,North Indian,Mid-range
+58,Restaurant 58,Delhi,Saket,South Indian,Budget
+59,Restaurant 59,Lucknow,Aliganj,Healthy,Premium
+60,Restaurant 60,Bengaluru,HSR Layout,Healthy,Premium

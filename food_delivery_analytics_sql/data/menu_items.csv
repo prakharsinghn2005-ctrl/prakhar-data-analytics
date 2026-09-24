@@ -1,0 +1,121 @@
+item_id,restaurant_id,item_name,cuisine,price
+1,1,Paneer Butter Masala,North Indian,129
+2,1,Chole Bhature,North Indian,251
+3,2,Dal Makhani,North Indian,400
+4,2,Paneer Butter Masala,North Indian,492
+5,3,Uttapam,South Indian,517
+6,3,Masala Dosa,South Indian,267
+7,4,Manchurian,Chinese,182
+8,4,Spring Rolls,Chinese,144
+9,5,Idli Sambar,South Indian,447
+10,5,Uttapam,South Indian,526
+11,6,Veg Burger,Burgers,176
+12,6,Classic Burger,Burgers,548
+13,7,Ice Cream,Desserts,394
+14,7,Cheesecake,Desserts,128
+15,8,Cheese Burger,Burgers,193
+16,8,Chicken Burger,Burgers,269
+17,9,Ice Cream,Desserts,434
+18,9,Brownie,Desserts,300
+19,10,Dal Makhani,North Indian,333
+20,10,Butter Naan,North Indian,215
+21,11,Classic Burger,Burgers,304
+22,11,Chicken Burger,Burgers,154
+23,12,Chicken Biryani,Biryani,360
+24,12,Veg Biryani,Biryani,142
+25,13,Ice Cream,Desserts,249
+26,13,Gulab Jamun,Desserts,502
+27,14,Classic Burger,Burgers,523
+28,14,Cheese Burger,Burgers,154
+29,15,Mutton Biryani,Biryani,495
+30,15,Chicken Biryani,Biryani,456
+31,16,Chicken Biryani,Biryani,496
+32,16,Mutton Biryani,Biryani,507
+33,17,Mutton Biryani,Biryani,142
+34,17,Chicken Biryani,Biryani,300
+35,18,Vada,South Indian,209
+36,18,Uttapam,South Indian,545
+37,19,Grilled Wrap,Healthy,365
+38,19,Smoothie Bowl,Healthy,443
+39,20,Idli Sambar,South Indian,152
+40,20,Masala Dosa,South Indian,486
+41,21,Grilled Wrap,Healthy,270
+42,21,Salad Bowl,Healthy,223
+43,22,Paneer Butter Masala,North Indian,141
+44,22,Chole Bhature,North Indian,281
+45,23,Smoothie Bowl,Healthy,323
+46,23,Grilled Wrap,Healthy,537
+47,24,Veg Burger,Burgers,138
+48,24,Cheese Burger,Burgers,505
+49,25,Gulab Jamun,Desserts,302
+50,25,Ice Cream,Desserts,519
+51,26,Chicken Biryani,Biryani,289
+52,26,Mutton Biryani,Biryani,259
+53,27,Paneer Butter Masala,North Indian,343
+54,27,Dal Makhani,North Indian,324
+55,28,Spring Rolls,Chinese,293
+56,28,Manchurian,Chinese,215
+57,29,Egg Biryani,Biryani,374
+58,29,Mutton Biryani,Biryani,308
+59,30,Vada,South Indian,492
+60,30,Masala Dosa,South Indian,337
+61,31,Brownie,Desserts,428
+62,31,Gulab Jamun,Desserts,541
+63,32,Cheese Burger,Burgers,270
+64,32,Chicken Burger,Burgers,284
+65,33,Brownie,Desserts,287
+66,33,Ice Cream,Desserts,458
+67,34,Chicken Burger,Burgers,348
+68,34,Cheese Burger,Burgers,428
+69,35,Veggie Pizza,Pizza,473
+70,35,Margherita Pizza,Pizza,347
+71,36,Fried Rice,Chinese,141
+72,36,Manchurian,Chinese,492
+73,37,Vada,South Indian,342
+74,37,Uttapam,South Indian,260
+75,38,Classic Burger,Burgers,463
+76,38,Veg Burger,Burgers,446
+77,39,Uttapam,South Indian,382
+78,39,Idli Sambar,South Indian,530
+79,40,Veg Biryani,Biryani,193
+80,40,Chicken Biryani,Biryani,431
+81,41,Spring Rolls,Chinese,184
+82,41,Hakka Noodles,Chinese,154
+83,42,Cheese Burger,Burgers,307
+84,42,Chicken Burger,Burgers,305
+85,43,Uttapam,South Indian,136
+86,43,Vada,South Indian,429
+87,44,Protein Bowl,Healthy,350
+88,44,Smoothie Bowl,Healthy,309
+89,45,Mutton Biryani,Biryani,510
+90,45,Veg Biryani,Biryani,159
+91,46,Veg Biryani,Biryani,307
+92,46,Mutton Biryani,Biryani,323
+93,47,Smoothie Bowl,Healthy,262
+94,47,Grilled Wrap,Healthy,247
+95,48,Salad Bowl,Healthy,496
+96,48,Grilled Wrap,Healthy,215
+97,49,Uttapam,South Indian,318
+98,49,Vada,South Indian,407
+99,50,Paneer Butter Masala,North Indian,516
+100,50,Dal Makhani,North Indian,253
+101,51,Spring Rolls,Chinese,433
+102,51,Hakka Noodles,Chinese,266
+103,52,Spring Rolls,Chinese,182
+104,52,Hakka Noodles,Chinese,189
+105,53,Masala Dosa,South Indian,208
+106,53,Idli Sambar,South Indian,485
+107,54,Grilled Wrap,Healthy,534
+108,54,Salad Bowl,Healthy,469
+109,55,Butter Naan,North Indian,297
+110,55,Chole Bhature,North Indian,483
+111,56,Brownie,Desserts,397
+112,56,Cheesecake,Desserts,268
+113,57,Butter Naan,North Indian,484
+114,57,Paneer Butter Masala,North Indian,483
+115,58,Idli Sambar,South Indian,380
+116,58,Uttapam,South Indian,234
+117,59,Salad Bowl,Healthy,525
+118,59,Grilled Wrap,Healthy,191
+119,60,Protein Bowl,Healthy,133
+120,60,Grilled Wrap,Healthy,304
